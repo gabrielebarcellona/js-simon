@@ -35,7 +35,7 @@ let x = setInterval(function() {
   
   if (difference < 0) {
     clearInterval(x);
-    document.getElementById("output").innerHTML = "EXPIRED";
+    document.getElementById("output").innerHTML = "PERFETTO,HENRI ADESSO TOCCA A TE CORREGGERE L'ESERCIZIO!";
   }
 }, );
 
